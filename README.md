@@ -69,7 +69,12 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+  <a href="https://github.com/diorsjoy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diorsjoy&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/diorsjoy/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diorsjoy&repo=convoychat" />
+</a>
 
 <br/>  
 
