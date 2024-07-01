@@ -15,14 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diorsjoy&theme=graywhite&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diorsjoy&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=diorsjoy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-----
