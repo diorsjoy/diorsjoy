@@ -1,5 +1,5 @@
-<h2 align="left">My name is Alina and I'm a frontend developer, from Kazakhstan!</h2>
-
+<h2 align="left">Welcome to my Github Profile!</h2>
+<h3 align="left">My name is Alina, frontend developer from Kazakhstan.</h3>
 ###
 
 <div align="center">
