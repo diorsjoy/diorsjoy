@@ -6,11 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diorsjoy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=catppuccin_latte&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="250" src="https://i.pinimg.com/originals/a4/a5/21/a4a5213d12274e96ae25f2468aad27bc.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
