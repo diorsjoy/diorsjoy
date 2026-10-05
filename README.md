@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
-**full stack engineer · applied AI researcher · astana, kz/ durham, uk**
+**full stack engineer · applied AI researcher · astana, kz / durham, uk**
 
 </div>
 
@@ -89,3 +89,5 @@ exit 0  //  thanks for stopping by ✨
 ```
 
 </div>
+
+<img src="https://raw.githubusercontent.com/diorsjoy/diorsjoy/output/github-contribution-grid-snake.svg" alt="snake animation" />
