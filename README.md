@@ -19,7 +19,7 @@ alina@nishan:~$ cat interests.txt
 ---
 
 ```console
-alina@astana:~$ git log --oneline --since="recent"
+alina@nishan:~$ git log --oneline --since="recent"
 a1f9c03 (HEAD -> main) feat: Durham MSc Advanced Computer Science (2027)
 7be42d8 feat: MuViT — sparse cross-scale attention for medical imaging
 3c0d5e1 feat: frontend dev @ Freedom Cloud
@@ -44,7 +44,7 @@ alina@nishan:$ cat publications.txt
 
 ```console
 alina@nishan:$ ./contact.sh
-location : Astana, Kazakhstan 🇰🇿
+location : Durham, United Kingdom 
 github   : github.com/diorsjoy
 linkedin : linkedin.com/in/alina-nishan
 email    : alina.nishan@inbox.ru
@@ -53,7 +53,7 @@ email    : alina.nishan@inbox.ru
 <div align="center">
 
 ```
-exit 0  //  thanks for stopping by ✨
+exit 0  //  thanks for stopping by :}
 ```
 
 </div>
