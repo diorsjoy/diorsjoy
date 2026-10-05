@@ -7,10 +7,10 @@
 ---
 
 ```console
-alina@astana:~$ whoami
-alina — full stack dev, MSc student, researcher
+alina@nishan:~$ whoami
+alina — full-stack dev, MSc student, researcher
 
-alina@astana:~$ cat interests.txt
+alina@nishan:~$ cat interests.txt
   > medical imaging AI
   > hpc
   > women in STEM advocacy
@@ -18,9 +18,8 @@ alina@astana:~$ cat interests.txt
 
 ---
 
-## `$ git log --oneline --since="recent"`
-
 ```console
+alina@astana:~$ git log --oneline --since="recent"
 a1f9c03 (HEAD -> main) feat: Durham MSc Advanced Computer Science (2027)
 7be42d8 feat: MuViT — sparse cross-scale attention for medical imaging
 3c0d5e1 feat: frontend dev @ Freedom Cloud
@@ -33,9 +32,9 @@ c7a2d90 publish: IEEE paper — Deep Conditional GANs
 
 ---
 
-## `$ cat publications.txt`
 
 ```console
+alina@nishan:$ cat publications.txt
 [1] Deep Conditional GANs with Wasserstein GP and Transfer Learning
     for Medical Image Synthesis (BUSI dataset)
     └─ IEEE
@@ -43,9 +42,8 @@ c7a2d90 publish: IEEE paper — Deep Conditional GANs
 
 ---
 
-## `$ ./contact.sh`
-
 ```console
+alina@nishan:$ ./contact.sh
 location : Astana, Kazakhstan 🇰🇿
 github   : github.com/diorsjoy
 linkedin : linkedin.com/in/alina-nishan
