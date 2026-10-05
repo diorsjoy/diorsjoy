@@ -11,8 +11,6 @@
 
 **full stack engineer · applied AI researcher · astana, kz/ durham, uk**
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=520&lines=%24+whoami;%24+building+B2B+AI+automation;%24+researching+medical+imaging+AI;%24+heading+to+Durham+%E2%9C%A8)
-
 </div>
 
 ---
