@@ -35,7 +35,18 @@ alina@astana:~$ cat interests.txt
 frontend/    react, next.js, typescript, scss, css
 backend/     go, python, fastapi
 ml/          gans, transfer learning, attention
+```
 
+<p>
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/SCSS-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699" />
+  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
+</p>
 
 ---
 
